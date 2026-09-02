@@ -18,10 +18,10 @@ hl.config({
 		resize_on_border = false,
 
 		col = {
-			active_border = 0xffffffff,
-			inactive_border = 0xff444444,
-			nogroup_border = 0xffffaaff,
-			nogroup_border_active = 0xffff00ff,
+			active_border = "0xffffffff",
+			inactive_border = "0xff444444",
+			nogroup_border = "0xffffaaff",
+			nogroup_border_active = "0xffff00ff",
 		},
 
 		snap = {

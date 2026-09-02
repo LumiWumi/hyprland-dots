@@ -4,3 +4,5 @@
 require("Settings.monitors")
 require("Settings.general")
 require("Settings.decoration")
+require("Settings.animations")
+require("Settings.input")
