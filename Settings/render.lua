@@ -2,7 +2,6 @@
 
 hl.config({
 	render = {
-		async_commit = false,
 		cm_auto_hdr = 1,
 		cm_enabled = true,
 		cm_sdr_eotf = "default",
@@ -14,7 +13,6 @@ hl.config({
 		icc_vcgt_enabled = true,
 		keep_unmodified_copy = 2,
 		new_render_scheduling = false,
-		not_shown_fifo_lock = 0,
 		non_shader_cm = 2,
 		non_shader_cm_interop = 2,
 		send_content_type = true,

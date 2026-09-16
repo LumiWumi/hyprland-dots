@@ -12,10 +12,6 @@ hl.config({
 		force_no_accel = true,
 		kb_file = [[Empty]],
 		kb_layout = "us",
-		kb_model = [[Empty]],
-		kb_options = [[Empty]],
-		kb_rules = [[Empty]],
-		kb_variant = [[Empty]],
 		left_handed = false,
 		mouse_refocus = true,
 		natural_scroll = false,
@@ -44,7 +40,6 @@ hl.config({
 			natural_scroll = false,
 			scroll_factor = 1.0,
 			tap_and_drag = true,
-			tap_buton_map = [[Empty]],
 			tap_to_click = true,
 		},
 

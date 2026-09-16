@@ -6,3 +6,9 @@ hl.config({
 		single_window_aspect_ratio_tolerance = 0.1,
 	},
 })
+
+hl.config({
+	dwindle = {
+		preserve_split = true,
+	},
+})

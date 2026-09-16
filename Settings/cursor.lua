@@ -12,7 +12,6 @@ hl.config({
 		no_warps = false,
 		persistent_warps = false,
 		warp_on_change_workspace = 0,
-		warp_on_monitor_change = -1,
 		warp_on_toggle_special = 0,
 		default_monitor = [[Empty]],
 		zoom_factor = 1.0,

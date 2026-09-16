@@ -2,6 +2,6 @@
 
 hl.config({
 	experimental = {
-		wp_sm_1_2 = false,
+		wp_cm_1_2 = false,
 	},
 })
